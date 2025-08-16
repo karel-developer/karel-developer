@@ -34,5 +34,4 @@ Passionate about merging hardware and software through code. Strong foundations 
 
 [![](https://github-readme-stats.vercel.app/api?username=karel-developer&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/karel-developer)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=karel-developer&theme=material-palenight)](https://github.com/karel-developer)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karel-developer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 </div>
