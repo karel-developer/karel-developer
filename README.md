@@ -4,6 +4,10 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
+Telecommunications & Electronics Engineering Student | Aspiring Full-Stack Developer
+
+Passionate about merging hardware and software through code. Strong foundations in C++ (algorithms, OOP), HTML/CSS, and exploring JavaScript/MERN stack. Building my path toward embedded systems and web development. Let’s connect and create tech solutions!
+
 - 🔭 I’m growing up right now
   
 - 🌱 I’m currently learning Git, Typescript y React
@@ -30,4 +34,5 @@
 
 [![](https://github-readme-stats.vercel.app/api?username=karel-developer&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/karel-developer)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=karel-developer&theme=material-palenight)](https://github.com/karel-developer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karel-developer&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 </div>
