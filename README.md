@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Kárel Bejerano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<h2> About Me</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -25,4 +25,9 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/k%C3%A1rel-alejandro-bejarano-benitez-36709637b/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 
+<div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
+[![](https://github-readme-stats.vercel.app/api?username=karel-developer&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/karel-developer)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=karel-developer&theme=material-palenight)](https://github.com/karel-developer)
+</div>
