@@ -4,10 +4,6 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-Telecommunications & Electronics Engineering Student | Aspiring Full-Stack Developer
-
-Passionate about merging hardware and software through code. Strong foundations in C++ (algorithms, OOP), HTML/CSS, and exploring JavaScript/MERN stack. Building my path toward embedded systems and web development. Let’s connect and create tech solutions!
-
 - 🔭 I’m growing up right now
   
 - 🌱 I’m currently learning Git, Typescript y React
