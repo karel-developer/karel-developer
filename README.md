@@ -6,7 +6,7 @@
 
 - 🔭 I’m growing up right now
   
-- 🌱 I’m currently learning Git, Typescript y React
+- 🌱 I’m currently learning Git, Typescript and React
   
 - 👯 I’m looking to collaborate on proyects
   
