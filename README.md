@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently learning Git, Typescript and React
   
-- 👯 I’m looking to collaborate on proyects
+- 👯 I’m looking to collaborate on projects
   
 - 💬 Ask me about C++, Javascript, HTML, CSS, Python
   
